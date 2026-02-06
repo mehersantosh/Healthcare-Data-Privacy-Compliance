@@ -1,0 +1,23 @@
+# Healthcare Data Incident Response Playbook
+
+Data incidents in healthcare require immediate,
+structured, and transparent handling.
+
+## Types of Incidents
+- Unauthorized data access
+- Malware / ransomware
+- Data leakage via messaging platforms
+- System misconfiguration
+
+## Incident Response Steps
+1. Identify and contain
+2. Assess scope and impact
+3. Notify internal stakeholders
+4. Restore services
+5. Document and review
+
+## Key Principles
+- Patient safety first
+- No blame culture
+- Continuous improvement
+- Compliance-aligned reporting
