@@ -1,0 +1,22 @@
+# Access Control Matrix – Healthcare Systems
+
+Access control is the foundation of healthcare data privacy.
+
+## Typical Roles
+- Doctor
+- Nurse
+- Technician
+- Billing Staff
+- IT Administrator
+- Management
+
+## Access Principles
+- Least privilege
+- Role-based access (RBAC)
+- Segregation of duties
+- Periodic access review
+
+## Implementation Notes
+- Separate clinical and administrative access
+- Emergency override (break-glass) mechanisms
+- Automatic de-provisioning on exit
