@@ -1,0 +1,27 @@
+# DPDP Act 2023 – Healthcare Mapping
+
+The DPDP Act, 2023 introduces a rights-based framework for
+personal data protection in India, with significant implications
+for healthcare institutions.
+
+## Key Healthcare Data Types
+- Patient demographic data
+- Clinical records & reports
+- Diagnostic images (PACS)
+- Billing & insurance data
+- Staff & clinician information
+
+## Core DPDP Principles Applied to Healthcare
+- Lawful purpose & consent
+- Data minimization
+- Purpose limitation
+- Accuracy & integrity
+- Storage limitation
+- Security safeguards
+
+## Practical Implementation
+- Role-based access to patient data
+- Logging and audit trails
+- Consent capture & documentation
+- Data retention and archival policies
+- Vendor data processing agreements
